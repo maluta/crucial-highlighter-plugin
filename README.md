@@ -39,40 +39,41 @@ O repositório será clonado em uma nova pasta chamada crucial-highlighter-plugi
 
 ### Como Instalar a Extensão no Google Chrome
 
-- Passo 1: Abrir a Página de Extensões do Chrome
+- **Passo 1:** Abrir a Página de Extensões do Chrome
 Abra o Google Chrome.
 Na barra de endereços, digite chrome://extensions/ e pressione Enter.
-- asso 2: Ativar o Modo do Desenvolvedor
+
+- **Passo 2:** Ativar o Modo do Desenvolvedor
 No canto superior direito da página, ative o Modo do desenvolvedor clicando no botão de alternância.
 
-- Passo 3: Carregar a Extensão Não Empacotada
+- **Passo 3:** Carregar a Extensão Não Empacotada
 Clique no botão Carregar sem compactação.
 Navegue até a pasta onde você extraiu ou clonou o repositório.
 Selecione a pasta crucial-highlighter-plugin e clique em Selecionar pasta.
 
-- Passo 4: Verificar a Instalação
+- **Passo 4:** Verificar a Instalação
 A extensão Realçador de Palavras Cruciais deve aparecer na lista de extensões.
 Certifique-se de que a extensão está ativada (o botão de alternância deve estar na posição ligada).
 
 ### Como Utilizar a Extensão
 
--  Passo 1: Abrir o Popup da Extensão
+-  **Passo 1:** Abrir o Popup da Extensão
 Clique no ícone da extensão ao lado da barra de endereços do Chrome.
 Se não visualizar o ícone, clique no ícone de quebra-cabeça e fixe a extensão na barra de ferramentas.
--  Passo 2: Ativar ou Desativar a Extensão
+-  **Passo 2:** Ativar ou Desativar a Extensão
 No popup, há uma caixa de seleção Ativar Extensão.
 Marque para ativar ou desmarque para desativar o realce das palavras.
--  Passo 3: Inserir a Lista de Palavras
+-  **Passo 3:** Inserir a Lista de Palavras
 No campo de texto, insira as palavras que deseja destacar, separadas por vírgulas.
 Exemplo: Crucial, Importante, Necessário
 A palavra "Crucial" já está pré-definida por padrão.
--  Passo 4: Salvar a Lista de Palavras
+-  **Passo 4:** Salvar a Lista de Palavras
 Clique no botão Salvar para armazenar sua lista personalizada.
 As palavras serão salvas para uso futuro, mesmo após fechar o navegador.
--  Passo 5: Visualizar o Realce nas Páginas
+-  **Passo 5:** Visualizar o Realce nas Páginas
 Navegue para qualquer página da web.
 As palavras da sua lista serão destacadas em amarelo e negrito sempre que aparecerem.
-- Passo 6: Verificar a Contagem da Palavra "Crucial"
+- **Passo 6:** Verificar a Contagem da Palavra "Crucial"
 No popup da extensão, na parte inferior, é exibida a Contagem de "Crucial" na página atual.
 
 ### Observações Importantes
