@@ -11,8 +11,8 @@
     instance.mark(wordList, {
       separateWordSearch: false,
       accuracy: {
-        value: "exactly",
-        limiters: [",", ".", ":", ";", "¡", "!", "¿", "?", "—", "«", "»", "…"],
+        value: "complementary",
+        limiters: [],
       },
       caseSensitive: false,
       done: function () {
